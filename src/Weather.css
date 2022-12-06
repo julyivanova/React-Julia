@@ -1,0 +1,19 @@
+input.searchInput {
+  display: flex;
+  position: relative;
+  top: -20px;
+}
+
+input.search-button {
+  display: flex;
+  position: relative;
+  top: -55px;
+  right: -200px;
+}
+
+input.current-button {
+  display: flex;
+  position: relative;
+  top: -122px;
+  right: -285px;
+}

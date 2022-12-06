@@ -1,0 +1,38 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  text-align: center;
+}
+
+.App::before {
+  content: "";
+  background: url(./img/pexels-dmitriymir-11107918.jpg) no-repeat center
+    center/cover;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.weather-app-wrapper {
+  box-shadow: rgba(0, 0, 0, 0.3);
+  margin: 30px auto;
+  max-width: 600px;
+  padding-top: 60px;
+}
+
+.weather-app {
+  padding: 20px;
+  border: 1px solid#dadde1;
+  border-radius: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+@media (max-width: 900px) {
+}
