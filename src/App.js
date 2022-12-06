@@ -13,7 +13,7 @@ function App() {
         </div>
         <footer className="text-center">
           <a
-            href="https://github.com/NatsukiSh/weather-react-challenge"
+            href="https://github.com/julyivanova/React-Julia"
             target="_blank"
             rel="noreferrer"
             className="text-decoration-none"
