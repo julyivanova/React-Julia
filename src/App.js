@@ -20,15 +20,7 @@ function App() {
           >
             Open-source code,
           </a>
-          by
-          <a
-            href="https://app.netlify.com/sites/funny-beignet-7cc5ec/"
-            target="_blank"
-            rel="noreferrer"
-            className="text-decoration-none"
-          >
-            Natsuki Shuko
-          </a>
+          by July
         </footer>
       </div>
     </div>
