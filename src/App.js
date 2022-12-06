@@ -18,8 +18,9 @@ function App() {
             rel="noreferrer"
             className="text-decoration-none"
           >
-            Open-source code,
+            Open-source code
           </a>
+          <br />
           by July
         </footer>
       </div>
